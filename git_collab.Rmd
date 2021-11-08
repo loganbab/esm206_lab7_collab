@@ -1,0 +1,12 @@
+---
+title: "Git collaboration to main"
+author: "Logan Babcock"
+date: "November 8, 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hello team-mates! salutations!!
