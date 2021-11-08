@@ -20,10 +20,9 @@ Hello team-mates! salutations!! This is were i (logan) will work
 ```
 
 
-
-
-
-
+```{r}
+Hi Anne and Logan
+```
 
 
 
@@ -35,6 +34,9 @@ Howdy, team! This is so fun!
   
   Even better than coding by myself!!
   
-}
+  3+3 = 6 
+
+plot(beepboopbop)
+
 ```
 
