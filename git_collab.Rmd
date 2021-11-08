@@ -10,3 +10,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hello team-mates! salutations!!
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+
+Howdy, team! This is so fun!
+  
+  Even better than coding by myself!!
+  
+}
+```
+
