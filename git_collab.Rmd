@@ -20,16 +20,15 @@ Hi Anne and Logan
 
 
 
-
-
-
-
 ```{r}
 
 Howdy, team! This is so fun!
   
   Even better than coding by myself!!
   
-}
+  3+3 = 6 
+
+plot(beepboopbop)
+
 ```
 
