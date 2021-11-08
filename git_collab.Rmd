@@ -9,7 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Hello team-mates! salutations!!
+Hello team-mates! salutations!! This is were i (logan) will work
+```{r Logan}
+# code code blah blah 
+
+# graphs and tables and graphs
+
+2+2 
+
+```
 
 
 
